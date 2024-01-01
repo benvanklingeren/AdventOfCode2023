@@ -1,4 +1,4 @@
-package day_two
+package day_2
 
 import filterDigits
 import print

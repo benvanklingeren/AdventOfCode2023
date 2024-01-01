@@ -1,4 +1,4 @@
-package day_one
+package day_1
 
 val input = "four82nine74\n" +
         "hlpqrdh3\n" +
